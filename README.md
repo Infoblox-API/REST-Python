@@ -1,4 +1,4 @@
-REST-Python
-===========
+python-ibconn
+=============
 
-Scripts for use with the Infoblox REST API using Python.
+python infoblox library

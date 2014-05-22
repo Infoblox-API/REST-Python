@@ -1,0 +1,8 @@
+[IB]
+address = ib-grid.foo.corp 
+username = ibuser
+path = /wapi/v
+password = exmaplepwd
+version = 1.2
+verify = True
+
